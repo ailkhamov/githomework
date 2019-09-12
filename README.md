@@ -11,13 +11,14 @@ Concepts of GIT
 -	You can visit any snapshot at any time
 -	You can stage files before committing
 ## GIT commands
--	|git init        |  Initialize Local Repository |
--	|git add < file> |  Add Files to Index          |
--	|git add .       |  adds everything             |
--	|git status      |Checks Status of Working Tree |
--	|git commit      | Commit Changes In Index      |
--	|git push        | Push Remote Repository       |
--	|git pull        | Pull Latest From Remote Respository|
--	|git clone       | Clones |
--	|rm -rf .git     | remove master              |
--	|git checkout ‘code’| takes you to back to the specific code|
+-	|git init        |  Initialize Local Repository
+-	|git add < file> |  Add Files to Index          
+-	|git add .       |  adds everything             
+-	|git status      |Checks Status of Working Tree
+-	|git commit      | Commit Changes In Index      
+-	|git push        | Push Remote Repository       
+-	|git pull        | Pull Latest From Remote Respository
+-	|git clone       | Clones
+-	|rm -rf .git     | remove master              
+-	|git checkout ‘code’| takes you to back to the specific code
+ git clonme REPO_SSH_ADDRESS  | goes back to the old repository
